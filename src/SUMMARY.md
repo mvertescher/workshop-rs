@@ -1,3 +1,7 @@
-# Summary
+# Rust Workshop
 
-- [Chapter 1](./chapter_1.md)
+[Overview](overview.md)
+
+- [Introduction and Cargo](./intro/title.md)
+    - [What is Rust Exactly?](./intro/001.md)
+    - [The Type System](./intro/002.md)
