@@ -7,3 +7,4 @@
     - [The Type System](./intro/the_type_system.md)
     - [Pillars of Rust](./intro/pillars_of_rust.md)
     - [Short Timeline](./intro/short_timeline.md)
+    - [Tools](./intro/tools.md)
