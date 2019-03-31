@@ -3,3 +3,6 @@ authors = ["Matt Vertescher"]
 multilingual = false
 src = "src"
 title = "Rust Workshop"
+
+[output.html.playpen]
+editable = true
