@@ -13,7 +13,7 @@ scores.insert(String::from("Yellow"), 50);
 let team_name = String::from("Blue");
 let score = scores.get(&team_name);
 
-assert_eq!(Some(10), score);
+assert_eq!(Some(&10), score);
 ```
 
 We can iterate over the keys/values of a hash map:

@@ -18,7 +18,7 @@ let row = vec![
     SpreadsheetCell::Int(3),
     SpreadsheetCell::Text(String::from("blue")),
     SpreadsheetCell::Float(10.12),
-]
+];
 ```
 
 If you don't know all the types the vector will hold at runtime, a _trait

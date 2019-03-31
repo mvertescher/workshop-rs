@@ -2,7 +2,7 @@
 
 Indexing into a non-existent element results in a panic:
 
-```rust
+```rust,should_panic,panics
 let v = vec![1, 2, 3, 4, 5];
 
 let does_not_exist = &v[100];
