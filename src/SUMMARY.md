@@ -25,6 +25,7 @@
     - [Last Time](./collections/last_time.md)
     - [Quote](./collections/quote.md)
     - [The Standard Library](./collections/the_std_library.md)
+    - [A Quick Tour](./collections/stdlib_tour.md)
     - [Collection Types](./collections/collection_types.md)
     - [Vectors](./collections/vector/title.md)
         - [Basics](./collections/vector/basics.md)

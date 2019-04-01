@@ -8,6 +8,7 @@ memory to allocate for each elements.
 An intermediate enum can be used to wrap an exhaustive set of types:
 
 ```rust
+# #[derive(Debug)]
 enum SpreadsheetCell {
     Int(i32),
     Float(f64),
@@ -19,6 +20,8 @@ let row = vec![
     SpreadsheetCell::Text(String::from("blue")),
     SpreadsheetCell::Float(10.12),
 ];
+
+println!("{:?}", row);
 ```
 
 If you don't know all the types the vector will hold at runtime, a _trait
