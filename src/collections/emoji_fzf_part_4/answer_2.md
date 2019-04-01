@@ -9,7 +9,7 @@
 > `main()` should use the `Command` from `parse()` to call the appropriate
 > handler.
 
-```rust
+```rust,ignore
 extern crate clap;
 
 enum Command {
