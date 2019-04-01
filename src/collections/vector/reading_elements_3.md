@@ -12,3 +12,17 @@ v.push(6);
 
 println!("The first element is: {}", first);
 ```
+
+```text
+error[E0502]: cannot borrow `v` as mutable because it is also borrowed as immutable
+  --> src/main.rs:11:1
+   |
+5  | let first = &v[0];
+   |              - immutable borrow occurs here
+6  |
+7  | v.push(6);
+   | ^ mutable borrow occurs here
+...
+10 | }
+   | - immutable borrow ends here
+```
