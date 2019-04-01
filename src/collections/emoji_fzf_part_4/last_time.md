@@ -4,9 +4,6 @@ We left off [here](https://github.com/mvertescher/emoji-fzf/tree/2c7d356dc57e8b8
 
 ```rust,ignore
 # extern crate clap;
-
-use std::env;
-
 use clap::{crate_name, crate_description, crate_version, crate_authors};
 use clap::{App, Arg, SubCommand};
 

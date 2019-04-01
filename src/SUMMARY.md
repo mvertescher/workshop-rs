@@ -48,4 +48,6 @@
         - [Today](./collections/emoji_fzf_part_4/today.md)
         - [The Preview Subcommand](./collections/emoji_fzf_part_4/preview_subcommand.md)
         - [Introducing Serde](./collections/emoji_fzf_part_4/serde_intro.md)
-        - [Mapping Emojis.json](./collections/emoji_fzf_part_4/mapping_emojis.md)
+        - [A Serde Example](./collections/emoji_fzf_part_4/serde_example.md)
+        - [Mapping Emojis.json 1](./collections/emoji_fzf_part_4/mapping_emojis_1.md)
+        - [Mapping Emojis.json 2](./collections/emoji_fzf_part_4/mapping_emojis_2.md)
