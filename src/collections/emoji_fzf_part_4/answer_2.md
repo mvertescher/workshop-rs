@@ -1,12 +1,12 @@
 # Answer 2
 
-> refactor `emoji-fzf` by adding an `args` module that contains a function
+> Refactor `emoji-fzf` by adding an `args` module that contains a function
 > `parse()`.
 >
-> `parse()` should return a `command` enum with variants that contain any
+> `parse()` should return a `Command` enum with variants that contain any
 > argument data.
 >
-> `main()` should use the `command` from `parse()` to call the appropriate
+> `main()` should use the `Command` from `parse()` to call the appropriate
 > handler.
 
 ```rust
@@ -38,7 +38,7 @@ fn display_emoji(name: &str) {
 
 fn preview_emojis() {
     for emoji in emojis::EMOJIS {
-
+        println!("{}", emoji.0);
     }
 }
 
