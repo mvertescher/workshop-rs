@@ -51,3 +51,7 @@
         - [A Serde Example](./collections/emoji_fzf_part_4/serde_example.md)
         - [Mapping Emojis.json 1](./collections/emoji_fzf_part_4/mapping_emojis_1.md)
         - [Mapping Emojis.json 2](./collections/emoji_fzf_part_4/mapping_emojis_2.md)
+
+- [Error Handling](./errors/title.md)
+    - [Last Time](./errors/last_time.md)
+    - [Quote](./errors/quote.md)
