@@ -39,3 +39,5 @@
         - [Accessing Values](./collections/hash_map/accessing_values.md)
         - [Updating Values](./collections/hash_map/updating_values.md)
         - [Hashing Functions](./collections/hash_map/hashing_functions.md)
+    - [Emoji-fzf: Part 4](./collections/emoji_fzf_part_4/title.md)
+        - [Last Time](./collections/emoji_fzf_part_4/last_time.md)
