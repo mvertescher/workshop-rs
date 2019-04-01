@@ -9,7 +9,7 @@
 > `main()` should use the `Command` from `parse()` to call the appropriate
 > handler.
 
-```rust,editable
+```rust,ignore,editable
 extern crate clap;
 
 use clap::{crate_name, crate_description, crate_version, crate_authors};

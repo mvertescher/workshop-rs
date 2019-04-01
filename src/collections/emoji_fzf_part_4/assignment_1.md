@@ -3,7 +3,7 @@
 > Extend `clap::App` to print each emoji name on a new line when the `preview`
 > subcommand is called.
 
-```rust,editable
+```rust,ignore,editable
 extern crate clap;
 
 use clap::{crate_name, crate_description, crate_version, crate_authors};
