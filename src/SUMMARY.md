@@ -45,3 +45,7 @@
         - [Answer 1](./collections/emoji_fzf_part_4/answer_1.md)
         - [Assignment 2](./collections/emoji_fzf_part_4/assignment_2.md)
         - [Answer 2](./collections/emoji_fzf_part_4/answer_2.md)
+        - [Today](./collections/emoji_fzf_part_4/today.md)
+        - [The Preview Subcommand](./collections/emoji_fzf_part_4/preview_subcommand.md)
+        - [Introducing Serde](./collections/emoji_fzf_part_4/serde_intro.md)
+        - [Mapping Emojis.json](./collections/emoji_fzf_part_4/mapping_emojis.md)
