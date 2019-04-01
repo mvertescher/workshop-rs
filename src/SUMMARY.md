@@ -9,6 +9,18 @@
     - [Short Timeline](./intro/short_timeline.md)
     - [Tools](./intro/tools.md)
 
+- [Common Programming Concepts](./common_concepts/title.md)
+    - [Last Time](./common_concepts/last_time.md)
+    - [Quote](./common_concepts/quote.md)
+
+- [Ownership](./ownership/title.md)
+    - [Last Time](./ownership/last_time.md)
+    - [Quote](./ownership/quote.md)
+
+- [Structs, Enums and Crates](./structs_enums_crates/title.md)
+    - [Last Time](./structs_enums_crates/last_time.md)
+    - [Quote](./structs_enums_crates/quote.md)
+
 - [Common Collections](./collections/title.md)
     - [Last Time](./collections/last_time.md)
     - [Quote](./collections/quote.md)
