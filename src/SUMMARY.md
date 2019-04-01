@@ -41,3 +41,7 @@
         - [Hashing Functions](./collections/hash_map/hashing_functions.md)
     - [Emoji-fzf: Part 4](./collections/emoji_fzf_part_4/title.md)
         - [Last Time](./collections/emoji_fzf_part_4/last_time.md)
+        - [Assignment 1](./collections/emoji_fzf_part_4/assignment_1.md)
+        - [Answer 1](./collections/emoji_fzf_part_4/answer_1.md)
+        - [Assignment 2](./collections/emoji_fzf_part_4/assignment_2.md)
+        - [Answer 2](./collections/emoji_fzf_part_4/answer_2.md)
