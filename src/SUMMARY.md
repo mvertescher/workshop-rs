@@ -8,6 +8,12 @@
     - [Pillars of Rust](./intro/pillars_of_rust.md)
     - [Short Timeline](./intro/short_timeline.md)
     - [Tools](./intro/tools.md)
+    - [Community](./intro/community.md)
+    - [Domains](./intro/domains.md)
+    - [Some Wisdom](./intro/wisdom.md)
+    - [Getting Started](./intro/getting_started.md)
+    - [Hello World](./intro/hello_world.md)
+    - [Installing Rust](./intro/installing_rust.md)
 
 - [Common Programming Concepts](./common_concepts/title.md)
     - [Last Time](./common_concepts/last_time.md)
