@@ -67,3 +67,4 @@
 - [Error Handling](./errors/title.md)
     - [Last Time](./errors/last_time.md)
     - [Quote](./errors/quote.md)
+    - [Introduction](./errors/intro.md)
