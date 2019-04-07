@@ -68,3 +68,6 @@
     - [Last Time](./errors/last_time.md)
     - [Quote](./errors/quote.md)
     - [Introduction](./errors/intro.md)
+    - [Panic!](./errors/panic.md)
+    - [Panic Backtrace](./errors/panic_backtrace.md)
+    - [The Result Type](./errors/result.md)
