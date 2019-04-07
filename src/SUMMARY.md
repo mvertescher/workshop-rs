@@ -93,3 +93,7 @@
         - [Answer 3](./errors/emoji_fzf_part_5/answer_3.md)
         - [Assignment 4](./errors/emoji_fzf_part_5/assignment_4.md)
         - [Answer 4](./errors/emoji_fzf_part_5/answer_4.md)
+
+- [Generics and Traits](./generics_traits/title.md)
+    - [Last Time](./generics_traits/last_time.md)
+    - [Quote](./generics_traits/quote.md)
