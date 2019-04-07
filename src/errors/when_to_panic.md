@@ -7,7 +7,7 @@ Sometimes, it is ok to `panic!`:
   ```rust
   use std::net::IpAddr;
 
-  let home: IpAddr = "127.0.0.1".parse().unwrap()
+  let home: IpAddr = "127.0.0.1".parse().unwrap();
   ```
 - Your binary will end up in an unrecoverable bad state
 - Your library is being misused and the calling programmers need to fix their code

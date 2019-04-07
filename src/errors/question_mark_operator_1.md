@@ -6,10 +6,11 @@ There are a few more things to note about `?`:
 
 Can we use the `?` in our main function?
 
-```rust
+```rust,editable
 use std::fs::File;
 
 fn main() {
-    let _f = File::open("emojis.json")?;
+    // Uncomment below!
+    // let _f = File::open("emojis.json")?;
 }
 ```

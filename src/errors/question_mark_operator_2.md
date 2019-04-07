@@ -2,7 +2,7 @@
 
 We can specify a `Result` return in our main function to use the `?` operator:
 
-```rust
+```rust,should_panic
 use std::error::Error;
 use std::fs::File;
 
