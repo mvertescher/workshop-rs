@@ -16,8 +16,8 @@ fn read_username_from_file() -> Result<String, io::Error> {
 }
 ```
 
-Furthermore, reading a file to a `String` is so common, there's a function for
-it `fs::read_to_string`:
+Reading a file to a `String` is so common, there's a function for it
+`fs::read_to_string`:
 
 ```rust
 use std::io;

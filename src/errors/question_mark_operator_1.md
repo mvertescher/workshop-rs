@@ -2,7 +2,8 @@
 
 There are a few more things to note about `?`:
 
-`?` can only be used with the `Result` type because of the way it is defined.
+`?` can be used with types other than `Result` if they implement the trait
+[std::ops::Try][try], like `Option`.
 
 Can we use the `?` in our main function?
 
@@ -14,3 +15,5 @@ fn main() {
     // let _f = File::open("emojis.json")?;
 }
 ```
+
+[try]: https://doc.rust-lang.org/std/ops/trait.Try.html

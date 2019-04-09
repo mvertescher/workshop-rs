@@ -27,5 +27,5 @@ fn main() {
 
 `expect` is shorthand for "give me `T` or `panic!` with a message".
 
-This is useful in situation when we would like more information about where a
+This is useful in situations when we would like more information about where a
 panic is in the code.

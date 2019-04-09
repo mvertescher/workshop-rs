@@ -9,5 +9,5 @@ Errors that are _unrecoverable_ are the symptom of software bugs.
 
 In Rust:
 
-- _unrecoverable_ errors -> `panic!`
-- _recoverable_ errors   -> `Result<T, E>`
+- _unrecoverable_ errors: `panic!`
+- _recoverable_ errors: `Result<T, E>`
