@@ -94,6 +94,7 @@
         - [Answer 3](./errors/emoji_fzf_part_5/answer_3.md)
         - [Assignment 4](./errors/emoji_fzf_part_5/assignment_4.md)
         - [Answer 4](./errors/emoji_fzf_part_5/answer_4.md)
+        - [Assignments](./errors/emoji_fzf_part_5/new_assignments.md)
 
 - [Generics](./generics/title.md)
     - [Last Time](./generics/last_time.md)
