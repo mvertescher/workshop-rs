@@ -95,6 +95,14 @@
         - [Assignment 4](./errors/emoji_fzf_part_5/assignment_4.md)
         - [Answer 4](./errors/emoji_fzf_part_5/answer_4.md)
 
-- [Generics and Traits](./generics_traits/title.md)
-    - [Last Time](./generics_traits/last_time.md)
-    - [Quote](./generics_traits/quote.md)
+- [Generics](./generics/title.md)
+    - [Last Time](./generics/last_time.md)
+    - [Quote](./generics/quote.md)
+
+- [Traits](./traits/title.md)
+    - [Last Time](./traits/last_time.md)
+    - [Quote](./traits/quote.md)
+
+- [Lifetimes](./lifetimes/title.md)
+    - [Last Time](./lifetimes/last_time.md)
+    - [Quote](./lifetimes/quote.md)
