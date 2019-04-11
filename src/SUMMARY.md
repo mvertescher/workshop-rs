@@ -14,6 +14,9 @@
     - [Getting Started](./intro/getting_started.md)
     - [Hello World](./intro/hello_world.md)
     - [Installing Rust](./intro/installing_rust.md)
+    - [Rustup 1](./intro/rustup_1.md)
+    - [Rustup 2](./intro/rustup_2.md)
+    - [Rustup 3](./intro/rustup_3.md)
 
 - [Common Programming Concepts](./common_concepts/title.md)
     - [Last Time](./common_concepts/last_time.md)
