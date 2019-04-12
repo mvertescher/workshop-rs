@@ -1,6 +1,6 @@
 # Using `Result`
 
-When you open a `File`, a result is returned...
+When you open a `File`, a `Result`  is returned:
 
 ```rust
 use std::fs::File;
