@@ -6,7 +6,7 @@ You can switch between complier releases with `rustup default`.
 $ rustup default nightly
 ```
 
-```
+```plaintext
 info: using existing install for 'nightly-x86_64-unknown-linux-gnu'
 info: default toolchain set to 'nightly-x86_64-unknown-linux-gnu'
 
@@ -17,7 +17,7 @@ info: default toolchain set to 'nightly-x86_64-unknown-linux-gnu'
 $ rustup default stable
 ```
 
-```
+```plaintext
 info: using existing install for 'stable-x86_64-unknown-linux-gnu'
 info: default toolchain set to 'stable-x86_64-unknown-linux-gnu'
 

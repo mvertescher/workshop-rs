@@ -6,7 +6,7 @@ Cargo is Rust's package manager.
 $ cargo -h
 ```
 
-```
+```plaintext
 Rust's package manager
 
 USAGE:

@@ -6,7 +6,7 @@ The `rustup-show` command displays active and installed toolchains.
 $ rustup show
 ```
 
-```
+```plaintext
 Default host: x86_64-unknown-linux-gnu
 
 installed toolchains

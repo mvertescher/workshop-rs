@@ -6,7 +6,7 @@ Cargo new creates a new Rust package.
 $ cargo new -h
 ```
 
-```
+```plaintext
 cargo-new
 Create a new cargo package at path
 

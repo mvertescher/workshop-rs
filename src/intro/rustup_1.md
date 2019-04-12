@@ -6,7 +6,7 @@
 $ rustup -h
 ```
 
-```
+```plaintext
 SUBCOMMANDS:
     show           Show the active and installed toolchains
     update         Update Rust toolchains and rustup
