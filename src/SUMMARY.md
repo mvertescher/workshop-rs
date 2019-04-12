@@ -17,6 +17,9 @@
     - [Rustup 1](./intro/rustup_1.md)
     - [Rustup 2](./intro/rustup_2.md)
     - [Rustup 3](./intro/rustup_3.md)
+    - [Cargo](./intro/cargo.md)
+    - [Cargo New](./intro/cargo_new.md)
+    - [New Crate](./intro/new_crate.md)
 
 - [Common Programming Concepts](./common_concepts/title.md)
     - [Last Time](./common_concepts/last_time.md)
