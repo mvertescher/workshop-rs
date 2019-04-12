@@ -20,6 +20,11 @@
     - [Cargo](./intro/cargo.md)
     - [Cargo New](./intro/cargo_new.md)
     - [New Crate](./intro/new_crate.md)
+    - [Cargo.toml](./intro/cargo_toml.md)
+    - [Cargo Build](./intro/cargo_build.md)
+    - [Cargo.lock](./intro/cargo_lock.md)
+    - [Cargo Run](./intro/cargo_run.md)
+    - [Cargo Run Release](./intro/cargo_run_release.md)
 
 - [Common Programming Concepts](./common_concepts/title.md)
     - [Last Time](./common_concepts/last_time.md)
