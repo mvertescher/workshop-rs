@@ -114,6 +114,13 @@
     - [Removing Duplication 1](./generics/removing_duplication_1.md)
     - [Removing Duplication 2](./generics/removing_duplication_2.md)
     - [Removing Duplication 3](./generics/removing_duplication_3.md)
+    - [Removing Duplication 4](./generics/removing_duplication_4.md)
+    - [Generic Structs 1](./generics/structs_1.md)
+    - [Generic Structs 2](./generics/structs_2.md)
+    - [Generic Structs 3](./generics/structs_3.md)
+    - [Generic Enums](./generics/enums.md)
+    - [Generic Methods](./generics/methods.md)
+    - [Performance](./generics/performance.md)
 
 - [Traits](./traits/title.md)
     - [Last Time](./traits/last_time.md)
