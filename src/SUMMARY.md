@@ -110,6 +110,10 @@
 - [Generics](./generics/title.md)
     - [Last Time](./generics/last_time.md)
     - [Quote](./generics/quote.md)
+    - [Introduction](./generics/intro.md)
+    - [Removing Duplication 1](./generics/removing_duplication_1.md)
+    - [Removing Duplication 2](./generics/removing_duplication_2.md)
+    - [Removing Duplication 3](./generics/removing_duplication_3.md)
 
 - [Traits](./traits/title.md)
     - [Last Time](./traits/last_time.md)
