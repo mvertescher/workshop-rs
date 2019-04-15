@@ -131,6 +131,8 @@
         - [Answer 2](./generics/workshop/answer_2.md)
         - [Question 3](./generics/workshop/question_3.md)
         - [Answer 3](./generics/workshop/answer_3.md)
+        - [Question 4](./generics/workshop/question_4.md)
+        - [Answer 4](./generics/workshop/answer_4.md)
 
 - [Traits](./traits/title.md)
     - [Last Time](./traits/last_time.md)
