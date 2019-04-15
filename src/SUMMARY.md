@@ -119,8 +119,11 @@
     - [Generic Structs 2](./generics/structs_2.md)
     - [Generic Structs 3](./generics/structs_3.md)
     - [Generic Enums](./generics/enums.md)
-    - [Generic Methods](./generics/methods.md)
-    - [Performance](./generics/performance.md)
+    - [Generic Methods 1](./generics/methods_1.md)
+    - [Generic Methods 2](./generics/methods_2.md)
+    - [Generic Methods 3](./generics/methods_3.md)
+    - [Performance 1](./generics/performance_1.md)
+    - [Performance 2](./generics/performance_2.md)
 
 - [Traits](./traits/title.md)
     - [Last Time](./traits/last_time.md)
