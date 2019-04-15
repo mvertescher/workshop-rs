@@ -1,13 +1,15 @@
 # Performance
 
-Let look at an example of _monomorphization_:
+Let's look at an example of two different concrete types:
+`Option<i32>` and `Option<f64>`.
 
 ```rust
 let integer = Some(5);
 let float = Some(5.0);
 ```
 
-The Rust compiler performs _monomorphization_ on the code above.
+The Rust compiler performs _monomorphization_ on the code above to something
+like below.
 
 ```rust
 enum Option_i32 {
