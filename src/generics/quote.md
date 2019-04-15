@@ -1,6 +1,6 @@
 # Quote
 
-> Using (traits) for Inheritance was like putting car wheels on a boat because
-> I am used to driving a vehicle with wheels.
+> once you can walk barefoot (C), it’s easy to learn to walk with shoes (go)
+> but it will take time to learn to ride a bike (rust)
 
-– Marco Alka on [Hashnode](https://hashnode.com/post/how-to-become-a-rust-super-developer-cjpv1ee7e000buhs2aqrdw2ym)
+— [/u/freakhill on Reddit](https://www.reddit.com/r/rust/comments/6srf8h/thoughts_from_a_dumb_person_notes_on_my_threeweek/dlf58jt/)
