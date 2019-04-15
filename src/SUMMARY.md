@@ -124,6 +124,13 @@
     - [Generic Methods 3](./generics/methods_3.md)
     - [Performance 1](./generics/performance_1.md)
     - [Performance 2](./generics/performance_2.md)
+    - [Workshop](./generics/workshop/title.md)
+        - [Question 1](./generics/workshop/question_1.md)
+        - [Answer 1](./generics/workshop/answer_1.md)
+        - [Question 2](./generics/workshop/question_2.md)
+        - [Answer 2](./generics/workshop/answer_2.md)
+        - [Question 3](./generics/workshop/question_3.md)
+        - [Answer 3](./generics/workshop/answer_3.md)
 
 - [Traits](./traits/title.md)
     - [Last Time](./traits/last_time.md)
