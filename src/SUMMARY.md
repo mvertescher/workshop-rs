@@ -29,6 +29,11 @@
 - [Common Programming Concepts](./common_concepts/title.md)
     - [Last Time](./common_concepts/last_time.md)
     - [Quote](./common_concepts/quote.md)
+    - [Keywords](./common_concepts/keywords.md)
+    - [Identifiers](./common_concepts/identifiers.md)
+    - [Variables 1](./common_concepts/variables_1.md)
+    - [Variable Shadowing](./common_concepts/variable_shadowing.md)
+    - [Variables and Types](./common_concepts/variable_and_types.md)
 
 - [Ownership](./ownership/title.md)
     - [Last Time](./ownership/last_time.md)
