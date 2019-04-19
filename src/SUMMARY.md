@@ -32,6 +32,8 @@
     - [Keywords](./common_concepts/keywords.md)
     - [Identifiers](./common_concepts/identifiers.md)
     - [Variables 1](./common_concepts/variables_1.md)
+    - [Variables 2](./common_concepts/variables_2.md)
+    - [Variables 3](./common_concepts/variables_3.md)
     - [Variable Shadowing](./common_concepts/variable_shadowing.md)
     - [Variables and Types](./common_concepts/variable_and_types.md)
 
