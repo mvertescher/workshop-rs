@@ -45,6 +45,12 @@
     - [Type Annotations 3](./common_concepts/type_annotations_3.md)
     - [Numeric Casting 1](./common_concepts/numeric_casting_1.md)
     - [Numeric Casting 2](./common_concepts/numeric_casting_2.md)
+    - [Side Note: Clippy Example](./common_concepts/clippy_example.md)
+    - [Compound Types](./common_concepts/compound_types/title.md)
+        - [Tuples](./common_concepts/compound_types/tuples.md)
+        - [Arrays 1](./common_concepts/compound_types/arrays_1.md)
+        - [Arrays 2](./common_concepts/compound_types/arrays_2.md)
+        - [Arrays 3](./common_concepts/compound_types/arrays_3.md)
 
 - [Ownership](./ownership/title.md)
     - [Last Time](./ownership/last_time.md)
