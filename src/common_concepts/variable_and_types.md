@@ -2,7 +2,7 @@
 
 When declared, variables are assigned a type.
 
-```rust
+```rust,ignore
 fn main() {
     let mut s = "This is a `&str` type";
     s = s.len();
