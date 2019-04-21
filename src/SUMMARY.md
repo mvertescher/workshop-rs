@@ -161,8 +161,10 @@
     - [Quote](./traits/quote.md)
     - [Introduction](./traits/intro.md)
     - [Defining a Trait](./traits/defining_traits.md)
-    - [Implementing a Trait](./traits/implementing_traits.md)
-    - [Default Implementations](./traits/default_implementations.md)
+    - [Implementing a Trait 1](./traits/implementing_traits_1.md)
+    - [Implementing a Trait 2](./traits/implementing_traits_2.md)
+    - [Default Implementations 1](./traits/default_implementations_1.md)
+    - [Default Implementations 2](./traits/default_implementations_2.md)
 
 - [Lifetimes](./lifetimes/title.md)
     - [Last Time](./lifetimes/last_time.md)
