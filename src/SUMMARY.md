@@ -178,6 +178,8 @@
     - [Using Trait Bounds to Conditionally Implement Methods 2](./traits/trait_bounds_conditional_methods_2.md)
     - [Recap](./traits/recap.md)
     - [Workshop](./traits/workshop/title.md)
+        - [Question 1](./traits/workshop/question_1.md)
+        - [Answer 1](./traits/workshop/answer_1.md)
 
 - [Lifetimes](./lifetimes/title.md)
     - [Last Time](./lifetimes/last_time.md)

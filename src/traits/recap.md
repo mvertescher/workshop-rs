@@ -13,3 +13,11 @@ _Trait bounds_ specify the behavior of generic type parameters.
   Trait` as long as only one concrete type is ever returned.
 - We can conditionally implement methods for types that have generic type
   parameters by placing trait bounds on the generic type parameters.
+
+Trait and trait bounds enable us to write code using generics that has specific
+behavior.
+
+In a dynamically typed language, we would get errors at compile time if we call
+a method on a type that was not implemented.
+
+In Rust, we check at compile time _and_ don't suffer any performance penalties.
