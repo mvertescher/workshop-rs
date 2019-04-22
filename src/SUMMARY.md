@@ -176,6 +176,7 @@
     - [Fixing the Largest Function 3](./traits/fixing_the_largest_function_3.md)
     - [Using Trait Bounds to Conditionally Implement Methods 1](./traits/trait_bounds_conditional_methods_1.md)
     - [Using Trait Bounds to Conditionally Implement Methods 2](./traits/trait_bounds_conditional_methods_2.md)
+    - [Recap](./traits/recap.md)
     - [Workshop](./traits/workshop/title.md)
 
 - [Lifetimes](./lifetimes/title.md)
