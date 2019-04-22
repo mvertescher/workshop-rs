@@ -171,8 +171,11 @@
         - [Where Clauses](./traits/parameters/where_clauses.md)
     - [Returning Types that Implement Traits 1](./traits/returning_types_that_implement_traits_1.md)
     - [Returning Types that Implement Traits 2](./traits/returning_types_that_implement_traits_2.md)
-    - [Fixing the Largest Function](./traits/fixing_the_largest_function.md)
-    - [Using Trait Bounds to Conditionally Implement Methods](./traits/trait_bounds_conditional_methods.md)
+    - [Fixing the Largest Function 1](./traits/fixing_the_largest_function_1.md)
+    - [Fixing the Largest Function 2](./traits/fixing_the_largest_function_2.md)
+    - [Fixing the Largest Function 3](./traits/fixing_the_largest_function_3.md)
+    - [Using Trait Bounds to Conditionally Implement Methods 1](./traits/trait_bounds_conditional_methods_1.md)
+    - [Using Trait Bounds to Conditionally Implement Methods 2](./traits/trait_bounds_conditional_methods_2.md)
     - [Workshop](./traits/workshop/title.md)
 
 - [Lifetimes](./lifetimes/title.md)
