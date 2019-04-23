@@ -1,4 +1,4 @@
-# Implementing a Trait
+# Implementing Traits
 
 Let's now use the `summary` method from the `Summary` trait:
 
@@ -33,16 +33,4 @@ println!("1 new tweet: {}", tweet.summarize())
 We've define our trait and type locally here so we don't need to bring anything
 into scope.
 
-If we wanted to implement an external trait on our local type, we would need to
-bring the trait into scope first.
-
-Alternatively, we could implement a local trait on an external type.
-
-But, we cannot implement external traits on external types.
-
-This restriction is part of a property of programs called _coherence_,
-specifically, the _orphan rule_, that ensures you cannot break other peoples
-code and vice-versa.
-
-Without this rule, two crates could implement the same trait for the same type,
-and Rust would not know which implementation to use.
+What happens when our trait or type is not local to our crate?

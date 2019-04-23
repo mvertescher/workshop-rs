@@ -1,4 +1,4 @@
-# Implementing a Trait
+# Implementing Traits
 
 Let's implement `Summary` on some types:
 

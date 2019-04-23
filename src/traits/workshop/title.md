@@ -1,3 +1,3 @@
 # Workshop
 
-A few questions...
+Let dig deeper into some traits we've encountered before!
