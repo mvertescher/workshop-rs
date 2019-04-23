@@ -1,6 +1,6 @@
 # Answer 1
 
-Although uncommon, we can manually implement the `Debug` trait:
+Although uncommon, we can manually implement the [`Debug`][debug] trait:
 
 ```rust
 use std::fmt;
@@ -22,7 +22,7 @@ fn main() {
 }
 ```
 
-Normally, we use an _annotation_ to derive the `Debug` trait:
+Normally, we use an _annotation_ to derive the [`Debug`][debug] trait:
 
 ```rust
 #[derive(Debug)]
@@ -36,3 +36,5 @@ fn main() {
     println!("{:?}", c);
 }
 ```
+
+[debug]: https://doc.rust-lang.org/std/fmt/trait.Debug.html

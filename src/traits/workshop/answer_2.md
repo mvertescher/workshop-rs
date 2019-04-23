@@ -1,7 +1,7 @@
 # Answer 2
 
-We manually implement the `Display` trait for types since it is used for
-user-facing output:
+We manually implement the [`Display`][display] trait for types since it is used
+for user-facing output:
 
 ```rust
 use std::fmt;
@@ -22,3 +22,5 @@ fn main() {
     println!("{}", x);
 }
 ```
+
+[display]: https://doc.rust-lang.org/std/fmt/trait.Display.html

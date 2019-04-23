@@ -183,6 +183,8 @@
         - [Answer 1](./traits/workshop/answer_1.md)
         - [Question 2](./traits/workshop/question_2.md)
         - [Answer 2](./traits/workshop/answer_2.md)
+        - [Question 3](./traits/workshop/question_3.md)
+        - [Answer 3](./traits/workshop/answer_3.md)
 
 - [Lifetimes](./lifetimes/title.md)
     - [Last Time](./lifetimes/last_time.md)
