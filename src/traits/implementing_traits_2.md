@@ -30,7 +30,7 @@ let tweet = Tweet {
 println!("1 new tweet: {}", tweet.summarize())
 ```
 
-We've define our trait and type locally here so we don't need to bring anything
-into scope.
+We've defined our trait and type locally here so we don't need to bring
+anything into scope.
 
 What happens when our trait or type is not local to our crate?

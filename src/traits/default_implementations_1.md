@@ -35,4 +35,4 @@ println!("New article available! {}", article.summarize())
 ```
 
 We can omit an implementation for `summary` in `impl Summary for NewsArticle
-{};` and still able to call the default `summary` function.
+{};` and are still able to call the default `summary` function.

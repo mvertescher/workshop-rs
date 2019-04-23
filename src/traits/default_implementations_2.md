@@ -3,8 +3,8 @@
 Default implementations can call other methods in the same trait, even if those
 methods do not have a default implementation.
 
-A trait can provide a large amount of functionality if types that implement the
-trait only implement a fraction of the methods.
+A trait can provide a large amount of functionality even if types that
+implement the trait only implement a fraction of the methods.
 
 ```rust
 pub trait Summary {
