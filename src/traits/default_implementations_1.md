@@ -34,5 +34,5 @@ let article = NewsArticle {
 println!("New article available! {}", article.summarize())
 ```
 
-We were able to omit an implementation for `summary`  in  `impl Summary for
-NewsArticle {};`, but were still able to call the default `summary` function.
+We can omit an implementation for `summary` in `impl Summary for NewsArticle
+{};` and still able to call the default `summary` function.
