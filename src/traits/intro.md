@@ -9,8 +9,11 @@ _Trait bounds_ can be used to specify the behavior of generic type parameter.
 
 Traits in Rust are most similar _type classes_ in Haskell:
 
-- It is possible to add traits to arbitrary data types, including primitive types
-- Traits can define a default implementation for a method
-- A trait can be used for operator overloading (ex. We can 'redefine' `==`)
-- Each overloadable operator in Rust has a corresponding trait in the standard library
+- It is possible to add traits to arbitrary data types, including primitive
+  types.
+- Traits can define a default implementation for a method.
+- A trait can be used for operator overloading. For example, we can 'redefine'
+  `==`.
+- Each overloadable operator in Rust has a corresponding trait in the standard
+  library.
 
