@@ -180,6 +180,8 @@
     - [Workshop](./traits/workshop/title.md)
         - [Question 1](./traits/workshop/question_1.md)
         - [Answer 1](./traits/workshop/answer_1.md)
+        - [Question 2](./traits/workshop/question_2.md)
+        - [Answer 2](./traits/workshop/answer_2.md)
 
 - [Lifetimes](./lifetimes/title.md)
     - [Last Time](./lifetimes/last_time.md)

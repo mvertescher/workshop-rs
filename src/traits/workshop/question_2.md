@@ -1,6 +1,6 @@
-# Question 1
+# Question 2
 
-Given a new type, how do we `Debug` print it?
+Given a new type, how do we `Display` it?
 
 ```rust,editable
 struct City {
@@ -11,7 +11,7 @@ struct City {
 /*
 fn main() {
     let x = City { name: String::from("Boston"), state: String::from("MA") };
-    println!("{:?}", x);
+    println!("{}", x);
 }
 */
 ```
