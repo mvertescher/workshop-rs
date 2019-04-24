@@ -24,10 +24,10 @@ pub struct NewsArticle {
 impl Summary for NewsArticle {};
 
 let article = NewsArticle {
-    headline: String::from("Penguins win the Stanley Cup Championship!"),
-    location: String::from("Pittsburgh, PA, USA"),
-    author: String::from("Iceburgh"),
-    content: String::from("The Pittsburgh Penguins once again are the best
+    headline: String::from("Bruins win the Stanley Cup Championship!"),
+    location: String::from("Boston, MA, USA"),
+    author: String::from("GFY"),
+    content: String::from("The Boston Bruins once again are the best
     hockey team in the NHL."),
 };
 
