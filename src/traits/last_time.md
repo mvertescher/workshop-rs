@@ -20,3 +20,4 @@
   - Traits as parameters
   - Returning types that implement traits
   - Conditionally implementing methods
+- Workshop
