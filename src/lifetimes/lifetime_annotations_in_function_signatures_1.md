@@ -23,3 +23,9 @@ slice returned will live _at least as long_ as `'a`.
 
 These are the constraints we want to enforce. We have communicated to the
 borrow checker that is __must__ be enforced.
+
+Lifetime annotations go in the function signature instead of the function body
+since it very difficult for Rust to determine the lifetimes of the parameters
+or return value on its own.
+
+We must annotate the lifetimes manually

@@ -194,4 +194,5 @@
     - [The Borrow Checker](./lifetimes/borrow_checker.md)
     - [Generic Lifetimes in Functions](./lifetimes/generic_lifetimes.md)
     - [Lifetime Annotation Syntax](./lifetimes/lifetime_annotation_syntax.md)
-    - [Lifetime Annotations in Function Signatures](./lifetimes/lifetime_annotations_in_function_signatures.md)
+    - [Lifetime Annotations in Function Signatures 1](./lifetimes/lifetime_annotations_in_function_signatures_1.md)
+    - [Lifetime Annotations in Function Signatures 2](./lifetimes/lifetime_annotations_in_function_signatures_2.md)
