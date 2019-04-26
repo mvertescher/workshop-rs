@@ -21,7 +21,7 @@ take ownership of the strings we wish to compare.
 
 Let's implement the longest function:
 
-```rust
+```rust,ignore
 fn longest(x: &str, y: &str) -> &str {
     if x.len() > y.len() {
         x

@@ -4,13 +4,13 @@ Let's inspect the lifetime constraints we have placed on the `longest`
 function:
 
 ```rust
-#fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
-#    if x.len() > y.len() {
-#        x
-#    } else {
-#        y
-#    }
-#}
+# fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
+#     if x.len() > y.len() {
+#         x
+#     } else {
+#         y
+#     }
+# }
 fn main() {
     let string1 = String::from("long string is long");
 
@@ -27,14 +27,14 @@ as long as the lifetime of `result`.
 
 What happens if we try to print out `result` in the outer scope?
 
-```rust
-#fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
-#    if x.len() > y.len() {
-#        x
-#    } else {
-#        y
-#    }
-#}
+```rust,ignore
+# fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
+#     if x.len() > y.len() {
+#         x
+#     } else {
+#         y
+#     }
+# }
 fn main() {
     let string1 = String::from("long string is long");
     let result;
