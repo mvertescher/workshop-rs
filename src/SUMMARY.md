@@ -199,6 +199,7 @@
     - [Thinking in Terms of Lifetimes](./lifetimes/thinking_in_terms_of_lifetimes.md)
     - [Lifetime Annotations in Struct Definitions](./lifetimes/struct_definition_lifetimes.md)
     - [Lifetime Elision 1](./lifetimes/elision_1.md)
+    - [Lifetime Elision 2](./lifetimes/elision_2.md)
     - [Lifetime Annotations in Method Definitions](./lifetimes/method_definition_lifetimes.md)
     - [The Static Lifetime](./lifetimes/static_lifetime.md)
     - [Generics, Trait Bounds, and Lifetimes Together](./lifetimes/all_together.md)

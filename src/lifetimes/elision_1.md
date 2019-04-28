@@ -22,3 +22,6 @@ entering the same lifetime annotations over and over again in particular
 situations.
 
 The borrow checker _can infer_ lifetimes in some situations.
+
+It's possible that more deterministic patterns will emerge and fewer lifetime
+annotations will be required.
