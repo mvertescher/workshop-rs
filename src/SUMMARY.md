@@ -215,3 +215,7 @@
         - [Answer 3](./lifetimes/workshop/answer_3.md)
         - [Question 4](./lifetimes/workshop/question_4.md)
         - [Answer 4](./lifetimes/workshop/answer_4.md)
+
+- [Automated Testing](./testing/title.md)
+    - [Last Time](./testing/last_time.md)
+    - [Quote](./testing/quote.md)
