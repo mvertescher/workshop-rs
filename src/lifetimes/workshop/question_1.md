@@ -6,20 +6,24 @@ For each example:
 
 ```rust,ignore
 fn last_word(s: &str) -> &str {
-    s.split().last().as_ref()
+#    let i = s.rfind(" ")
+#        .map(|x| x + 1)
+#        .unwrap_or(0);
+#    &s[i..]
+    // -snip-
 }
 ```
 
 ```rust,ignore
-fn first(s: &str, substring: &str) -> &str {
-    // TODO
-    s
+fn first_occurrence(s: &str, substring: &str) -> &str {
+    // -snip-
+#   s
 }
 ```
 
 ```rust,ignore
-fn first_two(s: &str, substring: &str) -> (&str, &str) {
-    // TODO
-    s
+fn first_two_occurrences(s: &str, substring: &str) -> (&str, &str) {
+    // -snip-
+#   s
 }
 ```
