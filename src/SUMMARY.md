@@ -197,6 +197,7 @@
     - [Lifetime Annotation Syntax](./lifetimes/lifetime_annotation_syntax.md)
     - [Lifetime Annotations in Function Signatures 1](./lifetimes/lifetime_annotations_in_function_signatures_1.md)
     - [Lifetime Annotations in Function Signatures 2](./lifetimes/lifetime_annotations_in_function_signatures_2.md)
+    - [Lifetime Annotations in Function Signatures 3](./lifetimes/lifetime_annotations_in_function_signatures_3.md)
     - [Thinking in Terms of Lifetimes](./lifetimes/thinking_in_terms_of_lifetimes.md)
     - [Lifetime Annotations in Struct Definitions](./lifetimes/struct_definition_lifetimes.md)
     - [Lifetime Elision 1](./lifetimes/elision_1.md)
