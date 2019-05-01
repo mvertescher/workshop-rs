@@ -214,8 +214,6 @@
         - [Answer 2](./lifetimes/workshop/answer_2.md)
         - [Question 3](./lifetimes/workshop/question_3.md)
         - [Answer 3](./lifetimes/workshop/answer_3.md)
-        - [Question 4](./lifetimes/workshop/question_4.md)
-        - [Answer 4](./lifetimes/workshop/answer_4.md)
 
 - [Automated Testing](./testing/title.md)
     - [Last Time](./testing/last_time.md)
