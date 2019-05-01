@@ -4,7 +4,7 @@ Let's take another look at `serde`!
 
 ## [`serde`](serde) Deserializer Lifetimes
 
-```rust
+```rust,ignore
 #[derive(Deserialize)]
 struct User<'a> {
     id: u32,
