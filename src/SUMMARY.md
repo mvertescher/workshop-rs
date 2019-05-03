@@ -218,3 +218,11 @@
 - [Automated Testing](./testing/title.md)
     - [Last Time](./testing/last_time.md)
     - [Quote](./testing/quote.md)
+
+- [Closures](./closures/title.md)
+    - [Last Time](./closures/last_time.md)
+    - [Quote](./closures/quote.md)
+
+- [Iterators](./iterators/title.md)
+    - [Last Time](./iterators/last_time.md)
+    - [Quote](./iterators/quote.md)
