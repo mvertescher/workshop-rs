@@ -218,6 +218,7 @@
 - [Automated Testing](./testing/title.md)
     - [Last Time](./testing/last_time.md)
     - [Quote](./testing/quote.md)
+    - [Introduction](./testing/intro.md)
 
 - [Closures](./closures/title.md)
     - [Last Time](./closures/last_time.md)
