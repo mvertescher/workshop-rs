@@ -230,6 +230,7 @@
     - [Ignoring Tests](./testing/ignoring_tests.md)
     - [Unit Tests](./testing/unit_tests.md)
     - [Integration Tests](./testing/integration_tests.md)
+    - [Mocking](./testing/mocking.md)
     - [Workshop](./testing/workshop/title.md)
 
 - [Closures](./closures/title.md)
