@@ -27,7 +27,7 @@ fn is_prime(n: i64) -> bool {
     if n < 0 {
         panic!("Natural numbers only please!");
     }
-
+#
 #    if n <= 1 {
 #        return false;
 #    }
