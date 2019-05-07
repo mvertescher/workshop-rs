@@ -22,3 +22,4 @@
   - Ignoring tests
 - Unit tests
 - Integration tests
+- Workshop: Building a Library Crate
