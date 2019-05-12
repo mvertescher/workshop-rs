@@ -248,6 +248,7 @@
     - [Introduction](./closures/intro.md)
     - [Abstracting Behavior 1](./closures/abstracting_behavior_1.md)
     - [Abstracting Behavior 2](./closures/abstracting_behavior_2.md)
+    - [Abstracting Behavior 3](./closures/abstracting_behavior_3.md)
     - [The Fn Traits](./closures/the_fn_traits.md)
     - [Closures and Generic Parameters](./closures/generic_parameters.md)
     - [Capturing the Environment 1](./closures/capturing_the_environment_1.md)
