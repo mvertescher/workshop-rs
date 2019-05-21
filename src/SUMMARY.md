@@ -51,6 +51,11 @@
         - [Arrays 1](./common_concepts/compound_types/arrays_1.md)
         - [Arrays 2](./common_concepts/compound_types/arrays_2.md)
         - [Arrays 3](./common_concepts/compound_types/arrays_3.md)
+    - [Functions](./common_concepts/functions/title.md)
+        - [Expressions](./common_concepts/functions/expressions.md)
+        - [Return Values](./common_concepts/functions/return_values.md)
+    - [Comments](./common_concepts/comments.md)
+    - [Control Flow](./common_concepts/control_flow/title.md)
 
 - [Ownership](./ownership/title.md)
     - [Last Time](./ownership/last_time.md)
