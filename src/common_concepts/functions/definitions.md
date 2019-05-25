@@ -7,7 +7,7 @@ An _expression_ evaluates to a value.
 
 For example, the following is an expression that contains a statement:
 
-```rust
+```rust,ignore
 {
   let x = 3;
   x + 1
