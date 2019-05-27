@@ -71,6 +71,11 @@
 - [Ownership](./ownership/title.md)
     - [Last Time](./ownership/last_time.md)
     - [Quote](./ownership/quote.md)
+    - [Introduction](./ownership/intro.md)
+    - [Stack and Heap](./ownership/stack_and_heap.md)
+    - [Ownership Rules](./ownership/ownership_rules.md)
+    - [Variable Scopes](./ownership/variable_scopes.md)
+    - [Strings](./ownership/strings.md)
 
 - [Structs, Enums and Crates](./structs_enums_crates/title.md)
     - [Last Time](./structs_enums_crates/last_time.md)
