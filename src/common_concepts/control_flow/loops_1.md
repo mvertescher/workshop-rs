@@ -2,7 +2,7 @@
 
 Rust includes the `loop` keyword for infinite loops:
 
-```rust
+```rust,ignore
 fn main() {
     loop {
         println!("again!");

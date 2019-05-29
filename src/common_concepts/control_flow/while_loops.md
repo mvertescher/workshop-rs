@@ -9,7 +9,7 @@ fn main() {
     let a = [5, 4, 3, 2, 1];
     let mut index = 0;
 
-    while index &lt 5 {
+    while index < 5 {
         println!("{} ", a[index]);
 
         index += 1;
