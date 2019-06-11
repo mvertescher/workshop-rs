@@ -95,6 +95,8 @@
     - [Return Values and Scope](./ownership/return_values_and_scope.md)
     - [References and Borrowing 1](./ownership/references_and_borrowing_1.md)
     - [References and Borrowing 2](./ownership/references_and_borrowing_2.md)
+    - [References and Borrowing 3](./ownership/references_and_borrowing_3.md)
+    - [References and Borrowing 4](./ownership/references_and_borrowing_4.md)
     - [Mutable References](./ownership/mutable_references_1.md)
     - [Mulitple Mutable References](./ownership/mulitple_mutable_references.md)
     - [Briefly: Non-Lexical Lifetimes](./ownership/nll/title.md)
