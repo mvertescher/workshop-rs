@@ -11,7 +11,7 @@ sContext context = {
 };
 ```
 
-```rust
+```rust,ignore
 let context = Context {
     name: String::from("Context"),
     path: String::from("/home/context"),  // NULL not possible!

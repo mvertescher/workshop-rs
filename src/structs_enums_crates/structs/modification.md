@@ -13,7 +13,7 @@ sContext context = {
 context.path = "/var/context";
 ```
 
-```rust
+```rust,ignore
 let mut context = Context {
     name: String::from("Context"),
     path: String::from("/home/context"),
