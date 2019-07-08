@@ -2,7 +2,7 @@
 
 Ouch, let's try the `:?` formatter instead:
 
-```rust,does_not_compile
+```rust,compile_fail
 struct Point {
     x: usize,
     y: usize,

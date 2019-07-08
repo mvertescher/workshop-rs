@@ -2,7 +2,7 @@
 
 Can structs store references?
 
-```rust
+```rust,compile_fail
 struct Context {
     name: &str,
     path: &str,

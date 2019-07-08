@@ -13,7 +13,7 @@ impl Point {
     }
 
     fn is_further_than(&self, other: &Point) -> bool {
-        self.distance() > origin.distance()
+        self.distance() > other.distance()
     }
 }
 

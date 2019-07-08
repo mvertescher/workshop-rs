@@ -2,7 +2,7 @@
 
 Often, we would like to display the contents of our structures:
 
-```rust,does_not_compile
+```rust,compile_fail
 struct Point {
     x: usize,
     y: usize,
