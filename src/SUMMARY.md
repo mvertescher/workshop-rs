@@ -341,6 +341,10 @@
     - [Move Closures](./closures/move_closures.md)
     - [Recap](./closures/recap.md)
     - [Workshop](./closures/workshop/title.md)
+        - [Question 1](./closures/workshop/question_1.md)
+        - [Answer 1](./closures/workshop/answer_1.md)
+        - [Question 2](./closures/workshop/question_2.md)
+        - [Answer 2](./closures/workshop/answer_2.md)
 
 - [Iterators](./iterators/title.md)
     - [Last Time](./iterators/last_time.md)
