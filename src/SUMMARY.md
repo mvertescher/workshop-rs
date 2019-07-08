@@ -334,9 +334,12 @@
     - [Storing Closures using Generic Parameters 1](./closures/storing_closures_using_generic_parameters_1.md)
     - [Storing Closures using Generic Parameters 2](./closures/storing_closures_using_generic_parameters_2.md)
     - [Storing Closures using Generic Parameters 3](./closures/storing_closures_using_generic_parameters_3.md)
-    - [The Fn Traits](./closures/the_fn_traits.md)
     - [Capturing the Environment 1](./closures/capturing_the_environment_1.md)
     - [Capturing the Environment 2](./closures/capturing_the_environment_2.md)
+    - [The Fn Traits 1](./closures/the_fn_traits_1.md)
+    - [The Fn Traits 2](./closures/the_fn_traits_2.md)
+    - [Move Closures](./closures/move_closures.md)
+    - [Recap](./closures/recap.md)
     - [Workshop](./closures/workshop/title.md)
 
 - [Iterators](./iterators/title.md)
