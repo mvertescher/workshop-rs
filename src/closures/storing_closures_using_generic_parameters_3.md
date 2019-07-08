@@ -32,6 +32,9 @@ Finally, let's update the `generate_workout` function:
 #     }
 # }
 #
+# use std::thread;
+# use std::time::Duration;
+#
 fn generate_workout(intensity: u32, random_number: u32) {
     let mut expensive_result = Cacher::new(|num| {
         println!("calculating slowly...");
