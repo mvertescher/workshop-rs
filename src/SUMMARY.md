@@ -327,6 +327,8 @@
     - [Last Time](./closures/last_time.md)
     - [Quote](./closures/quote.md)
     - [Introduction](./closures/intro.md)
+    - [What Are Closures](./closures/what_are_closures.md)
+    - [C Function Pointers](./closures/c_function_pointers.md)
     - [Abstracting Behavior 1](./closures/abstracting_behavior_1.md)
     - [Abstracting Behavior 2](./closures/abstracting_behavior_2.md)
     - [Abstracting Behavior 3](./closures/abstracting_behavior_3.md)

@@ -13,5 +13,10 @@
 
 # Today
 
-- Closures!
-- Workshop: More closures!
+- Closures
+  - Abstracting behavior
+  - Generic parameters
+  - Capturing the environment
+  - The `Fn` Traits
+  - Move closures
+- Workshop: Closure exercises

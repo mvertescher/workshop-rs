@@ -13,7 +13,7 @@ let add_one_v4 = |x|               x + 1  ;  // Closure without braces
 ```
 
 The compiler infers the types of the closure parameters based on the usage:
-`
+
 ```rust,compile_fail
 let sample_closure = |x| x;
 
