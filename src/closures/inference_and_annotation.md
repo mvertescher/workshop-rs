@@ -17,6 +17,6 @@ The compiler infers the types of the closure parameters based on the usage:
 ```rust,compile_fail
 let sample_closure = |x| x;
 
-let s = example_closure(String::from("hello"));
-let n = example_closure(5);
+let s = sample_closure(String::from("hello"));
+let n = sample_closure(5);
 ```
