@@ -8,7 +8,10 @@ closure uses the values from the environment.
 - Closures that don't need mutable access to the captured variables also
   implement `Fn`.
 
-In our example, the `equal_to_x` closure only borrows `x` immutably from the
+In other words, `FnOnce` is a super trait of `FnMut` and `FnMut` is a super
+trait of `Fn`.
+
+For example, the `equal_to_x` closure only borrows `x` immutably from the
 environment and therefore has the `Fn` trait.
 
 ```rust
