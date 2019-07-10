@@ -24,7 +24,7 @@ fn main() {
 fn main() {
     let hello = String::from("hello");
     let mutate = |s| s.truncate(4);
-    hello.truncate(3);
     mutate(hello);
+    println!("{}", hello);
 }
 ```
